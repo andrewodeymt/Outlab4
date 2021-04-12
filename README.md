@@ -1,7 +1,9 @@
 # Outlab4
 
 ~/Downloads/algs4> java GPSGraph Rome99.gr
+
 The current graph has vertices from 1 to 3353.
+
 Would you like to:
 1. Find a new route
 2. Exit
@@ -17,6 +19,7 @@ Total cost: 36042
 Total time: 0.015 sec
 
 The current graph has vertices from 1 to 3353.
+
 Would you like to:
 1. Find a new route
 2. Exit
