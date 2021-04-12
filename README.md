@@ -1,5 +1,6 @@
 # Outlab4
 
+```text
 ~/Downloads/algs4> java GPSGraph Rome99.gr
 
 The current graph has vertices from 1 to 3353.
@@ -27,3 +28,4 @@ Would you like to:
 2
 
 Exited.
+```
